@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="wagon3" type="PLAIN_TEXT" />
+      <mapping pattern="wagon4" type="PLAIN_TEXT" />
+      <mapping pattern="wagon2" type="PLAIN_TEXT" />
+      <mapping pattern="wagon1" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
